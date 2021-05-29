@@ -1,6 +1,6 @@
 {
   "name": "@darkwolf/base64url",
-  "version": "100.0.0",
+  "version": "100.0.1",
   "description": "Base64URL",
   "type": "module",
   "main": "./lib/index.cjs",
@@ -30,6 +30,6 @@
   },
   "homepage": "https://github.com/Darkwolf/node-base64url#readme",
   "dependencies": {
-    "@darkwolf/primordials": "^1.1.9"
+    "@darkwolf/primordials": "^1.2.0"
   }
 }
