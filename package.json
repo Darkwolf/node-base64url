@@ -1,6 +1,6 @@
 {
   "name": "@darkwolf/base64url",
-  "version": "100.0.2",
+  "version": "100.0.3",
   "description": "Base64URL",
   "type": "module",
   "main": "./lib/index.cjs",
